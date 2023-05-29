@@ -1,7 +1,7 @@
 
 /* ROOT --> para almacenar características predeterminadas*/
 :root {
-  --theme-color: white;
+  --theme-color: #d8d8d8;
   --primary-color: #2b6cce;
   --secondary-color: #f7c331;
   --text-color-inverse: white;
