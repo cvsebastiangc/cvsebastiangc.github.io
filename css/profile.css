@@ -68,7 +68,7 @@
   filter: brightness(130%);
 }
 
-@media (min-width: 950px) {
+@media (min-width: 300px) {
   .profile-info {
     margin-bottom: 0px;
   }
